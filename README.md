@@ -2,7 +2,7 @@
 <b> Welcome to Future <b>
   
   hey im Farhood Dnaniai im a Junior <em> Machine Learning Engineer <em> and <em> Data Scientist <em>
-  I Push <b> Machine Learning projects </b> and sometimes <b> Deep Learning Projects </b> , well sometimes unrelated Projects just for fun
+  I Push <em> Machine Learning projects <em> and sometimes <em> Deep Learning Projects <em> , well sometimes unrelated Projects just for fun
 
 
 
