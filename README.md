@@ -5,7 +5,8 @@
   I Push <b> Machine Learning projects <b> and sometimes <b> Deep Learning Projects <b> , well sometimes unrelated Projects just for fun
 
 
-<strong> shit <strong>
+
+<font size="3"> no  </font> 
 
 
 
