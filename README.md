@@ -5,7 +5,7 @@
   I Push <b> Machine Learning projects <b> and sometimes <b> Deep Learning Projects <b> , well sometimes unrelated Projects just for fun
 
 
-<em> fuck <em>
+<strong> shit <strong>
 
 
 
