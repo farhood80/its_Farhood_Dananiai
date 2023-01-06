@@ -3,7 +3,7 @@
 
 <b> Welcome to Future <b>  <img src="https://bernardmarr.com/wp-content/uploads/2021/12/Future-Developments-of-AI.jpg" width="100"/>
   
-  <div id="header" align="left">
+  <div id="header" align="center">
  <img src="https://i.pinimg.com/originals/88/29/bb/8829bbfa76769440315fee3e671859cc.gif" width="400"/>
   
     
