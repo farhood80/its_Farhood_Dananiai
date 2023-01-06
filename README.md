@@ -1,5 +1,6 @@
 
 ![](https://komarev.com/ghpvc/?username=farhood80)
+
  <b> Welcome to Future <b> <img src="https://bernardmarr.com/wp-content/uploads/2021/12/Future-Developments-of-AI.jpg" width="100"/>
   
   
