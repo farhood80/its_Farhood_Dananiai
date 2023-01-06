@@ -3,8 +3,10 @@
 
 <b> Welcome to Future <b>  <img src="https://bernardmarr.com/wp-content/uploads/2021/12/Future-Developments-of-AI.jpg" width="100"/>
   
+  
+  you cant find something more beautiful than 
   <div id="header" align="center">
- <img src="https://i.pinimg.com/originals/88/29/bb/8829bbfa76769440315fee3e671859cc.gif" width="400"/>
+ <img src="https://i.pinimg.com/originals/88/29/bb/8829bbfa76769440315fee3e671859cc.gif" width="500"/>
   
     
   hey im Farhood Dananiai im a Junior <em> Machine Learning Engineer </em> :computer: and <em> Data Scientist </em>
