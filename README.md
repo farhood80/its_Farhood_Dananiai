@@ -17,6 +17,7 @@
   
 </div>
 
+ > <em> “Data is the new oil.” — Clive Humby </em>
   
   <div id="badges">
 <a href="https://www.linkedin.com/in/farhood-dananiae-2b22b1229">
