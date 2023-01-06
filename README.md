@@ -7,7 +7,7 @@
  <img src="https://i.pinimg.com/originals/88/29/bb/8829bbfa76769440315fee3e671859cc.gif" width="400"/>
   
     
-  hey im Farhood Dananiai im a Junior <em> Machine Learning Engineer </em> and <em> Data Scientist </em>
+  hey im Farhood Dananiai im a Junior <em> Machine Learning Engineer </em> :computer: and <em> Data Scientist </em>
   I Push <em> Machine Learning projects </em> in github  and sometimes <em> Deep Learning Projects </em> , 
     well sometimes unrelated Projects just for fun.
   
