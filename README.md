@@ -1,4 +1,6 @@
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
+
 <b> Welcome to Future <b>
   
   hey im Farhood Dananiai im a Junior <em> Machine Learning Engineer </em> and <em> Data Scientist </em>
