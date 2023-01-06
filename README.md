@@ -13,7 +13,7 @@
   I Push <em> Machine Learning projects </em> in github  and sometimes <em> Deep Learning Projects </em> , 
     well sometimes unrelated Projects just for fun.
   
- :exclamation: :warning:  :exclamation: <b> this projects are fully documented and with good explantions about each part </b> :exclamation: :warning:  :exclamation: 
+ >:exclamation: :warning:  :exclamation: <b> this projects are fully documented and with good explantions about each part </b> :exclamation: :warning:  :exclamation: 
   
 </div>
 
