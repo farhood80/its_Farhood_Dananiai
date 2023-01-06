@@ -7,7 +7,7 @@
   >you cant find something more beautiful than the future which was developed by A.I
  
  *********************************************************************
-  <div id="header" align="center">
+  <div id="header" align="left">
  <img src="https://i.pinimg.com/originals/88/29/bb/8829bbfa76769440315fee3e671859cc.gif" width="500"/>
   
  *********************************************************************  
