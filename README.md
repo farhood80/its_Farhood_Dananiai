@@ -26,7 +26,4 @@
   <div id="badges">
 <a href="https://www.linkedin.com/in/farhood-dananiae-2b22b1229">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-<a href="t.me/farhood_d">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
-  </a>
+ </div>
